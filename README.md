@@ -26,12 +26,15 @@ milaan-sanremo-2025/
 ## 📄 Pagina's
 
 ### `index.html`
+
 Introductie over de koers, feiten en cijfers.
 
 ### `geschiedenis.html`
+
 Rijke geschiedenis van Milaan - San Remo, met legendarische momenten en statistieken.
 
 ### `favorieten-2025.html`
+
 Analyse van de favorieten voor de editie van 2025, inclusief bekende namen en outsiders.
 
 ## 🚀 Gebruik
